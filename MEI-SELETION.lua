@@ -38,11 +38,13 @@ local Scripts = {
 		name = "Clover",
 		url  = "loadstring(game:HttpGet("https://cloverhub.app/clover.lua"))()",
 	},
-{
-    name = "pulse"
-    url  = "loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseZax/Loader/main/.lua"))()".
+    {
+        name = "pulse"
+        url  = "loadstring(game:HttpGet("https://raw.githubusercontent.com/PulseZax/Loader/main/.lua"))()".
   },
-{
+  {
+        name = "MEIHUB (ALDEKION)
+		url  = "loadstring(game:HttpGet("https://raw.githubusercontent.com/delarocaaxel3-debug/MEI-HUB-SCRIPT/refs/heads/main/MEIHUBSCRIPT.lua"))()"
 
 --==================================================
 -- helpers
